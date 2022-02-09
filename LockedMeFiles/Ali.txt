@@ -1,0 +1,2 @@
+Ali a quick remainder:
+Do not forget to report back to the manager the latest fixes implemented in the application
